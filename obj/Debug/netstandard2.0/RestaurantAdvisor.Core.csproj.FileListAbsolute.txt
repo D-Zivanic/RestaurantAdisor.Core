@@ -1,0 +1,9 @@
+C:\Users\dcvis\source\repos\RestaurantAdisor.Core\bin\Debug\netstandard2.0\RestaurantAdvisor.Core.deps.json
+C:\Users\dcvis\source\repos\RestaurantAdisor.Core\bin\Debug\netstandard2.0\RestaurantAdvisor.Core.dll
+C:\Users\dcvis\source\repos\RestaurantAdisor.Core\bin\Debug\netstandard2.0\RestaurantAdvisor.Core.pdb
+C:\Users\dcvis\source\repos\RestaurantAdisor.Core\obj\Debug\netstandard2.0\RestaurantAdvisor.Core.csprojAssemblyReference.cache
+C:\Users\dcvis\source\repos\RestaurantAdisor.Core\obj\Debug\netstandard2.0\RestaurantAdvisor.Core.AssemblyInfoInputs.cache
+C:\Users\dcvis\source\repos\RestaurantAdisor.Core\obj\Debug\netstandard2.0\RestaurantAdvisor.Core.AssemblyInfo.cs
+C:\Users\dcvis\source\repos\RestaurantAdisor.Core\obj\Debug\netstandard2.0\RestaurantAdvisor.Core.csproj.CoreCompileInputs.cache
+C:\Users\dcvis\source\repos\RestaurantAdisor.Core\obj\Debug\netstandard2.0\RestaurantAdvisor.Core.dll
+C:\Users\dcvis\source\repos\RestaurantAdisor.Core\obj\Debug\netstandard2.0\RestaurantAdvisor.Core.pdb
